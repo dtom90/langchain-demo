@@ -1,3 +1,5 @@
+# Chat models and prompts
+# Build a simple LLM application with chat models and prompt templates
 # https://python.langchain.com/docs/tutorials/llm_chain/
 
 import pprint

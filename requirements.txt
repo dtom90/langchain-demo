@@ -1,2 +1,5 @@
 python-dotenv
 langchain[anthropic]
+langchain-community
+langchain-google-vertexai
+langchain-core
